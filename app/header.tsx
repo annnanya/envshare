@@ -9,17 +9,8 @@ const navigation = [
     href: "/share",
   },
   {
-    name: "Unseal",
-    href: "/unseal",
-  },
-
-  {
-    name: "Deploy",
-    href: "/deploy",
-  },
-  {
     name: "GitHub",
-    href: "https://github.com/chronark/envshare",
+    href: "https://github.com/annnanya/envshare.git",
     external: true,
   },
 ] satisfies { name: string; href: string; external?: boolean }[];
