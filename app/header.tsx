@@ -9,6 +9,10 @@ const navigation = [
     href: "/share",
   },
   {
+    name: "Unseal",
+    href: "/unseal",
+  },
+  {
     name: "GitHub",
     href: "https://github.com/annnanya/envshare.git",
     external: true,
